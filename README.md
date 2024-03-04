@@ -6,7 +6,7 @@
   - improving analytics operations in the yearly issues of [HTTP Archive's Web Almanac](https://github.com/HTTPArchive/almanac.httparchive.org),
   - and moving my [personal website](https://maxostapenko.com/) to [Quarto](https://quarto.org/).
 
-- 👯 I’m looking to collaborate on:
+- 👯 I’m interested in collaboration on:
 
   - ads transparency / privacy tools and insights,
   - solutions improving daily data operations.
